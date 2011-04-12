@@ -1,0 +1,4 @@
+Question:
+  columns:
+    text:
+      type: string(100)
