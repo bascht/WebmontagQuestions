@@ -1,0 +1,7 @@
+nbproject
+*.swp
+data/sql/*
+lib/*/base/*
+cache/*
+log/*
+lib/vendor/*
